@@ -17,7 +17,8 @@
 	"license": "MIT",
 	"icon": "images/ruby.png",
 	"categories": [
-		"Debuggers"
+		"Debuggers",
+                "Languages"
 	],
 	"private": false,
 	"repository": {
